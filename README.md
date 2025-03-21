@@ -1,6 +1,8 @@
 YOLOv11-toy-project
 ===================
 
+<!-- Failed to upload "count_car.gif" -->
+
 ### 1. Introduction
 This project is toy project using yolov11.   
 Count object number in specific square area.
