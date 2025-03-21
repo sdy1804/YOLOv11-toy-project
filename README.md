@@ -7,4 +7,6 @@ Count object number in specific square area.
 And it also provides tracklet visualization.
 
 ### 2. install
+```
 pip install ultralytics
+```
