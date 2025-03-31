@@ -1,5 +1,5 @@
 # YOLOv11-toy-project
-===================
+
   
   ![Image](https://github.com/user-attachments/assets/ae8d8427-bfaf-498c-8100-f2e1821ec229)
 
