@@ -5,18 +5,18 @@ YOLOv11-toy-project
 
 <!-- Failed to upload "count_car.gif" -->
 
-### 1. introduction
+## Introduction
 This project is toy project using yolov11.   
 Count object number in specific square area.
 And it also provides tracklet visualization.
 
-### 2. install
+## Install
 Python >= 3.8, Pytorch >= 1.8    
 https://github.com/ultralytics/ultralytics?tab=readme-ov-file
 ```
 pip install ultralytics
 ```
-### 3. utilize codes
+## Utilize codes
 When using custom dataset to YOLOv11, ***split_dataset.py*** can split data to train and validation.    
    
 ***trans_json_to_txt.py*** can transform format from .json to .txt that fits to yolo's. 
